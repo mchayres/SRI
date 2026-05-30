@@ -1,0 +1,103 @@
+Sentença	Id	Index	Granularidade	Documento
+acorda-me às nove da manhã na sexta-feira	1	0	0	acorda-me às nove da manhã na sexta-feira
+0	1	-1	1	acorda-me às nove da manhã na sexta-feira
+accionar um alarme durante duas horas a partir de agora	2	0	0	accionar um alarme durante duas horas a partir de agora
+1	2	-1	1	accionar um alarme durante duas horas a partir de agora
+olly não fales	3	0	0	olly não fales
+2	3	-1	1	olly não fales
+pára	4	0	0	pára
+3	4	-1	1	pára
+olly pára durante dez segundos	5	0	0	olly pára durante dez segundos
+4	5	-1	1	olly pára durante dez segundos
+pausa por dez segundos	6	0	0	pausa por dez segundos
+5	6	-1	1	pausa por dez segundos
+tornar a iluminação um pouco mais calorosa aqui	7	0	0	tornar a iluminação um pouco mais calorosa aqui
+6	7	-1	1	tornar a iluminação um pouco mais calorosa aqui
+definir a iluminação adequada para leitura	8	0	0	definir a iluminação adequada para leitura
+7	8	-1	1	definir a iluminação adequada para leitura
+hora de cormir	9	0	0	hora de cormir
+8	9	-1	1	hora de cormir
+tempo de dormir olly	10	0	0	tempo de dormir olly
+9	10	-1	1	tempo de dormir olly
+desligar a luz da casa de banho	11	0	0	desligar a luz da casa de banho
+10	11	-1	1	desligar a luz da casa de banho
+alexa diminui as luzes no salão	12	0	0	alexa diminui as luzes no salão
+11	12	-1	1	alexa diminui as luzes no salão
+apagar as luzes no quarto	13	0	0	apagar as luzes no quarto
+12	13	-1	1	apagar as luzes no quarto
+mudar as luzes para vinte porcento	14	0	0	mudar as luzes para vinte porcento
+13	14	-1	1	mudar as luzes para vinte porcento
+olly coloca as luzes para vinte por cento	15	0	0	olly coloca as luzes para vinte por cento
+14	15	-1	1	olly coloca as luzes para vinte por cento
+alexa diminuir as luzes da cozinha	16	0	0	alexa diminuir as luzes da cozinha
+15	16	-1	1	alexa diminuir as luzes da cozinha
+diminui as luzes na cozinha	17	0	0	diminui as luzes na cozinha
+16	17	-1	1	diminui as luzes na cozinha
+alexa limpar o apartamento	18	0	0	alexa limpar o apartamento
+17	18	-1	1	alexa limpar o apartamento
+aspirar a casa	19	0	0	aspirar a casa
+18	19	-1	1	aspirar a casa
+aspirar a casa olly	20	0	0	aspirar a casa olly
+19	20	-1	1	aspirar a casa olly
+aspirar as alcatifas	21	0	0	aspirar as alcatifas
+20	21	-1	1	aspirar as alcatifas
+verifique quando o show inicia	22	0	0	verifique quando o show inicia
+21	22	-1	1	verifique quando o show inicia
+quero ouvir eu tenho dois amores do marco	23	0	0	quero ouvir eu tenho dois amores do marco paulo novamente
+paulo	23	1	0	quero ouvir eu tenho dois amores do marco paulo novamente
+novamente	23	2	0	quero ouvir eu tenho dois amores do marco paulo novamente
+22	23	-1	1	quero ouvir eu tenho dois amores do marco paulo novamente
+podes pôr essa música novamente	24	0	0	podes pôr essa música novamente
+23	24	-1	1	podes pôr essa música novamente
+verifica se o meu carro está pronto	25	0	0	verifica se o meu carro está pronto
+24	25	-1	1	verifica se o meu carro está pronto
+verifica se o meu portátil está a trabalhar	26	0	0	verifica se o meu portátil está a trabalhar
+25	26	-1	1	verifica se o meu portátil está a trabalhar
+a luminosidade do meu ecrã está baixa	27	0	0	a luminosidade do meu ecrã está baixa
+26	27	-1	1	a luminosidade do meu ecrã está baixa
+preciso de ter os serviços localização ligados podes verificar	28	0	0	preciso de ter os serviços localização ligados podes verificar
+27	28	-1	1	preciso de ter os serviços localização ligados podes verificar
+cheque o desempenho da minha bateria	29	0	0	cheque o desempenho da minha bateria
+28	29	-1	1	cheque o desempenho da minha bateria
+não estou cansado na realidade estou feliz	30	0	0	não estou cansado na realidade estou feliz
+29	30	-1	1	não estou cansado na realidade estou feliz
+siri não estou cansado na realidade estou feliz	31	0	0	siri não estou cansado na realidade estou feliz
+30	31	-1	1	siri não estou cansado na realidade estou feliz
+o que se passa	32	0	0	o que se passa
+31	32	-1	1	o que se passa
+diz-me as horas em lisboa	33	0	0	diz-me as horas em lisboa
+32	33	-1	1	diz-me as horas em lisboa
+diz me as horas em g. m. t. mais cinco	34	0	0	diz me as horas em g. m. t. mais cinco
+33	34	-1	1	diz me as horas em g. m. t. mais cinco
+olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações	35	0	0	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+34	35	-1	1	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+entrega ao domicílio de comida chinesa com mais avaliações	36	0	0	entrega ao domicílio de comida chinesa com mais avaliações
+35	36	-1	1	entrega ao domicílio de comida chinesa com mais avaliações
+olly melhores avaliações de entrega para comida chinesa	37	0	0	olly melhores avaliações de entrega para comida chinesa
+36	37	-1	1	olly melhores avaliações de entrega para comida chinesa
+apetece-me caril tens alguma recomendação	38	0	0	apetece-me caril tens alguma recomendação
+37	38	-1	1	apetece-me caril tens alguma recomendação
+quero algum caril para levar alguma recomendação olly	39	0	0	quero algum caril para levar alguma recomendação olly
+38	39	-1	1	quero algum caril para levar alguma recomendação olly
+procura por comida tailandesa com takeaway perto do centro do porto	40	0	0	procura por comida tailandesa com takeaway perto do centro do porto
+39	40	-1	1	procura por comida tailandesa com takeaway perto do centro do porto
+para o alarme das sete da manhã	41	0	0	para o alarme das sete da manhã
+40	41	-1	1	para o alarme das sete da manhã
+por favor lista os alarmes ativos	42	0	0	por favor lista os alarmes ativos
+41	42	-1	1	por favor lista os alarmes ativos
+o que está a acontecer no futebol hoje	43	0	0	o que está a acontecer no futebol hoje
+42	43	-1	1	o que está a acontecer no futebol hoje
+por favor põe contentores dos xutos e pontapés	44	0	0	por favor põe contentores dos xutos e pontapés
+43	44	-1	1	por favor põe contentores dos xutos e pontapés
+gosto de música rock	45	0	0	gosto de música rock
+44	45	-1	1	gosto de música rock
+minha banda de música favorita é queen	46	0	0	minha banda de música favorita é queen
+45	46	-1	1	minha banda de música favorita é queen
+começa a tocar música dos meus favoritos	47	0	0	começa a tocar música dos meus favoritos
+46	47	-1	1	começa a tocar música dos meus favoritos
+por favor toca a minha melhor música	48	0	0	por favor toca a minha melhor música
+47	48	-1	1	por favor toca a minha melhor música
+qual é o autor desta música	49	0	0	qual é o autor desta música
+48	49	-1	1	qual é o autor desta música
+de que álbum é a música atual	50	0	0	de que álbum é a música atual
+49	50	-1	1	de que álbum é a música atual

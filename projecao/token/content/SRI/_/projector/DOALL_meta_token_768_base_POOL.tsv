@@ -1,0 +1,322 @@
+Token	POS-Tag	OOV	Id	Index	Documento
+acorda-me	VERB	1	1	0	acorda-me às nove da manhã na sexta-feira
+às	ADP	0	1	1	acorda-me às nove da manhã na sexta-feira
+nove	NUM	0	1	2	acorda-me às nove da manhã na sexta-feira
+da	ADP	0	1	3	acorda-me às nove da manhã na sexta-feira
+manhã	NOUN	0	1	4	acorda-me às nove da manhã na sexta-feira
+na	ADP	0	1	5	acorda-me às nove da manhã na sexta-feira
+sexta-feira	NOUN	1	1	6	acorda-me às nove da manhã na sexta-feira
+accionar	VERB	1	2	0	accionar um alarme durante duas horas a partir de agora
+um	DET	0	2	1	accionar um alarme durante duas horas a partir de agora
+alarme	NOUN	1	2	2	accionar um alarme durante duas horas a partir de agora
+durante	ADP	0	2	3	accionar um alarme durante duas horas a partir de agora
+duas	NUM	0	2	4	accionar um alarme durante duas horas a partir de agora
+horas	NOUN	0	2	5	accionar um alarme durante duas horas a partir de agora
+a	ADP	0	2	6	accionar um alarme durante duas horas a partir de agora
+partir	NOUN	0	2	7	accionar um alarme durante duas horas a partir de agora
+de	ADP	0	2	8	accionar um alarme durante duas horas a partir de agora
+agora	ADV	0	2	9	accionar um alarme durante duas horas a partir de agora
+olly	NOUN	1	3	0	olly não fales
+não	ADV	0	3	1	olly não fales
+fales	VERB	1	3	2	olly não fales
+pára	VERB	1	4	0	pára
+olly	NOUN	1	5	0	olly pára durante dez segundos
+pára	VERB	1	5	1	olly pára durante dez segundos
+durante	ADP	0	5	2	olly pára durante dez segundos
+dez	NUM	0	5	3	olly pára durante dez segundos
+segundos	NOUN	0	5	4	olly pára durante dez segundos
+pausa	NOUN	0	6	0	pausa por dez segundos
+por	ADP	0	6	1	pausa por dez segundos
+dez	NUM	0	6	2	pausa por dez segundos
+segundos	NOUN	0	6	3	pausa por dez segundos
+tornar	VERB	0	7	0	tornar a iluminação um pouco mais calorosa aqui
+a	DET	0	7	1	tornar a iluminação um pouco mais calorosa aqui
+iluminação	NOUN	0	7	2	tornar a iluminação um pouco mais calorosa aqui
+um	DET	0	7	3	tornar a iluminação um pouco mais calorosa aqui
+pouco	ADV	0	7	4	tornar a iluminação um pouco mais calorosa aqui
+mais	ADV	0	7	5	tornar a iluminação um pouco mais calorosa aqui
+calorosa	ADJ	1	7	6	tornar a iluminação um pouco mais calorosa aqui
+aqui	ADV	0	7	7	tornar a iluminação um pouco mais calorosa aqui
+definir	VERB	0	8	0	definir a iluminação adequada para leitura
+a	DET	0	8	1	definir a iluminação adequada para leitura
+iluminação	NOUN	0	8	2	definir a iluminação adequada para leitura
+adequada	ADJ	0	8	3	definir a iluminação adequada para leitura
+para	ADP	0	8	4	definir a iluminação adequada para leitura
+leitura	NOUN	0	8	5	definir a iluminação adequada para leitura
+hora	NOUN	0	9	0	hora de cormir
+de	ADP	0	9	1	hora de cormir
+cormir	NOUN	1	9	2	hora de cormir
+tempo	NOUN	0	10	0	tempo de dormir olly
+de	SCONJ	0	10	1	tempo de dormir olly
+dormir	VERB	0	10	2	tempo de dormir olly
+olly	NOUN	1	10	3	tempo de dormir olly
+desligar	VERB	1	11	0	desligar a luz da casa de banho
+a	DET	0	11	1	desligar a luz da casa de banho
+luz	NOUN	0	11	2	desligar a luz da casa de banho
+da	ADP	0	11	3	desligar a luz da casa de banho
+casa	NOUN	0	11	4	desligar a luz da casa de banho
+de	ADP	0	11	5	desligar a luz da casa de banho
+banho	NOUN	0	11	6	desligar a luz da casa de banho
+alexa	PROPN	1	12	0	alexa diminui as luzes no salão
+diminui	VERB	0	12	1	alexa diminui as luzes no salão
+as	DET	0	12	2	alexa diminui as luzes no salão
+luzes	NOUN	0	12	3	alexa diminui as luzes no salão
+no	ADP	0	12	4	alexa diminui as luzes no salão
+salão	NOUN	0	12	5	alexa diminui as luzes no salão
+apagar	VERB	1	13	0	apagar as luzes no quarto
+as	DET	0	13	1	apagar as luzes no quarto
+luzes	NOUN	0	13	2	apagar as luzes no quarto
+no	ADP	0	13	3	apagar as luzes no quarto
+quarto	ADJ	0	13	4	apagar as luzes no quarto
+mudar	VERB	0	14	0	mudar as luzes para vinte porcento
+as	DET	0	14	1	mudar as luzes para vinte porcento
+luzes	NOUN	0	14	2	mudar as luzes para vinte porcento
+para	ADP	0	14	3	mudar as luzes para vinte porcento
+vinte	NUM	0	14	4	mudar as luzes para vinte porcento
+porcento	NOUN	1	14	5	mudar as luzes para vinte porcento
+olly	NOUN	1	15	0	olly coloca as luzes para vinte por cento
+coloca	VERB	0	15	1	olly coloca as luzes para vinte por cento
+as	DET	0	15	2	olly coloca as luzes para vinte por cento
+luzes	NOUN	0	15	3	olly coloca as luzes para vinte por cento
+para	ADP	0	15	4	olly coloca as luzes para vinte por cento
+vinte	NUM	0	15	5	olly coloca as luzes para vinte por cento
+por	ADP	0	15	6	olly coloca as luzes para vinte por cento
+cento	NUM	0	15	7	olly coloca as luzes para vinte por cento
+alexa	PROPN	1	16	0	alexa diminuir as luzes da cozinha
+diminuir	VERB	0	16	1	alexa diminuir as luzes da cozinha
+as	DET	0	16	2	alexa diminuir as luzes da cozinha
+luzes	NOUN	0	16	3	alexa diminuir as luzes da cozinha
+da	ADP	0	16	4	alexa diminuir as luzes da cozinha
+cozinha	NOUN	0	16	5	alexa diminuir as luzes da cozinha
+diminui	VERB	0	17	0	diminui as luzes na cozinha
+as	DET	0	17	1	diminui as luzes na cozinha
+luzes	NOUN	0	17	2	diminui as luzes na cozinha
+na	ADP	0	17	3	diminui as luzes na cozinha
+cozinha	NOUN	0	17	4	diminui as luzes na cozinha
+alexa	PROPN	1	18	0	alexa limpar o apartamento
+limpar	VERB	1	18	1	alexa limpar o apartamento
+o	DET	0	18	2	alexa limpar o apartamento
+apartamento	NOUN	0	18	3	alexa limpar o apartamento
+aspirar	VERB	1	19	0	aspirar a casa
+a	DET	0	19	1	aspirar a casa
+casa	NOUN	0	19	2	aspirar a casa
+aspirar	VERB	1	20	0	aspirar a casa olly
+a	DET	0	20	1	aspirar a casa olly
+casa	NOUN	0	20	2	aspirar a casa olly
+olly	ADJ	1	20	3	aspirar a casa olly
+aspirar	VERB	1	21	0	aspirar as alcatifas
+as	DET	0	21	1	aspirar as alcatifas
+alcatifas	NOUN	1	21	2	aspirar as alcatifas
+verifique	VERB	1	22	0	verifique quando o show inicia
+quando	ADV	0	22	1	verifique quando o show inicia
+o	DET	0	22	2	verifique quando o show inicia
+show	NOUN	0	22	3	verifique quando o show inicia
+inicia	VERB	0	22	4	verifique quando o show inicia
+quero	VERB	0	23	0	quero ouvir eu tenho dois amores do marco paulo novamente
+ouvir	VERB	0	23	1	quero ouvir eu tenho dois amores do marco paulo novamente
+eu	PRON	0	23	2	quero ouvir eu tenho dois amores do marco paulo novamente
+tenho	VERB	0	23	3	quero ouvir eu tenho dois amores do marco paulo novamente
+dois	NUM	0	23	4	quero ouvir eu tenho dois amores do marco paulo novamente
+amores	NOUN	1	23	5	quero ouvir eu tenho dois amores do marco paulo novamente
+do	ADP	0	23	6	quero ouvir eu tenho dois amores do marco paulo novamente
+marco	NOUN	0	23	7	quero ouvir eu tenho dois amores do marco paulo novamente
+paulo	PROPN	1	23	8	quero ouvir eu tenho dois amores do marco paulo novamente
+novamente	ADV	0	23	9	quero ouvir eu tenho dois amores do marco paulo novamente
+podes	VERB	1	24	0	podes pôr essa música novamente
+pôr	VERB	0	24	1	podes pôr essa música novamente
+essa	DET	0	24	2	podes pôr essa música novamente
+música	NOUN	0	24	3	podes pôr essa música novamente
+novamente	ADV	0	24	4	podes pôr essa música novamente
+verifica	VERB	0	25	0	verifica se o meu carro está pronto
+se	SCONJ	0	25	1	verifica se o meu carro está pronto
+o	DET	0	25	2	verifica se o meu carro está pronto
+meu	DET	0	25	3	verifica se o meu carro está pronto
+carro	NOUN	0	25	4	verifica se o meu carro está pronto
+está	AUX	0	25	5	verifica se o meu carro está pronto
+pronto	ADJ	0	25	6	verifica se o meu carro está pronto
+verifica	VERB	0	26	0	verifica se o meu portátil está a trabalhar
+se	SCONJ	0	26	1	verifica se o meu portátil está a trabalhar
+o	DET	0	26	2	verifica se o meu portátil está a trabalhar
+meu	DET	0	26	3	verifica se o meu portátil está a trabalhar
+portátil	NOUN	1	26	4	verifica se o meu portátil está a trabalhar
+está	VERB	0	26	5	verifica se o meu portátil está a trabalhar
+a	SCONJ	0	26	6	verifica se o meu portátil está a trabalhar
+trabalhar	VERB	0	26	7	verifica se o meu portátil está a trabalhar
+a	DET	0	27	0	a luminosidade do meu ecrã está baixa
+luminosidade	NOUN	1	27	1	a luminosidade do meu ecrã está baixa
+do	ADP	0	27	2	a luminosidade do meu ecrã está baixa
+meu	DET	0	27	3	a luminosidade do meu ecrã está baixa
+ecrã	NOUN	1	27	4	a luminosidade do meu ecrã está baixa
+está	AUX	0	27	5	a luminosidade do meu ecrã está baixa
+baixa	ADJ	0	27	6	a luminosidade do meu ecrã está baixa
+preciso	ADJ	0	28	0	preciso de ter os serviços localização ligados podes verificar
+de	SCONJ	0	28	1	preciso de ter os serviços localização ligados podes verificar
+ter	VERB	0	28	2	preciso de ter os serviços localização ligados podes verificar
+os	DET	0	28	3	preciso de ter os serviços localização ligados podes verificar
+serviços	NOUN	0	28	4	preciso de ter os serviços localização ligados podes verificar
+localização	NOUN	0	28	5	preciso de ter os serviços localização ligados podes verificar
+ligados	VERB	0	28	6	preciso de ter os serviços localização ligados podes verificar
+podes	VERB	1	28	7	preciso de ter os serviços localização ligados podes verificar
+verificar	VERB	0	28	8	preciso de ter os serviços localização ligados podes verificar
+cheque	NOUN	1	29	0	cheque o desempenho da minha bateria
+o	DET	0	29	1	cheque o desempenho da minha bateria
+desempenho	NOUN	0	29	2	cheque o desempenho da minha bateria
+da	ADP	0	29	3	cheque o desempenho da minha bateria
+minha	DET	0	29	4	cheque o desempenho da minha bateria
+bateria	NOUN	0	29	5	cheque o desempenho da minha bateria
+não	ADV	0	30	0	não estou cansado na realidade estou feliz
+estou	AUX	0	30	1	não estou cansado na realidade estou feliz
+cansado	ADJ	1	30	2	não estou cansado na realidade estou feliz
+na	ADP	0	30	3	não estou cansado na realidade estou feliz
+realidade	NOUN	0	30	4	não estou cansado na realidade estou feliz
+estou	AUX	0	30	5	não estou cansado na realidade estou feliz
+feliz	ADJ	0	30	6	não estou cansado na realidade estou feliz
+siri	NOUN	1	31	0	siri não estou cansado na realidade estou feliz
+não	ADV	0	31	1	siri não estou cansado na realidade estou feliz
+estou	AUX	0	31	2	siri não estou cansado na realidade estou feliz
+cansado	ADJ	1	31	3	siri não estou cansado na realidade estou feliz
+na	ADP	0	31	4	siri não estou cansado na realidade estou feliz
+realidade	NOUN	0	31	5	siri não estou cansado na realidade estou feliz
+estou	AUX	0	31	6	siri não estou cansado na realidade estou feliz
+feliz	ADJ	0	31	7	siri não estou cansado na realidade estou feliz
+o	PRON	0	32	0	o que se passa
+que	PRON	0	32	1	o que se passa
+se	PRON	0	32	2	o que se passa
+passa	VERB	0	32	3	o que se passa
+diz-me	VERB	1	33	0	diz-me as horas em lisboa
+as	DET	0	33	1	diz-me as horas em lisboa
+horas	NOUN	0	33	2	diz-me as horas em lisboa
+em	ADP	0	33	3	diz-me as horas em lisboa
+lisboa	PROPN	1	33	4	diz-me as horas em lisboa
+diz	VERB	0	34	0	diz me as horas em g. m. t. mais cinco
+me	PRON	0	34	1	diz me as horas em g. m. t. mais cinco
+as	DET	0	34	2	diz me as horas em g. m. t. mais cinco
+horas	NOUN	0	34	3	diz me as horas em g. m. t. mais cinco
+em	ADP	0	34	4	diz me as horas em g. m. t. mais cinco
+g.	PROPN	1	34	5	diz me as horas em g. m. t. mais cinco
+m.	PROPN	1	34	6	diz me as horas em g. m. t. mais cinco
+t.	VERB	1	34	7	diz me as horas em g. m. t. mais cinco
+mais	ADV	0	34	8	diz me as horas em g. m. t. mais cinco
+cinco	NUM	0	34	9	diz me as horas em g. m. t. mais cinco
+olly	NOUN	1	35	0	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+mostra	VERB	0	35	1	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+uma	DET	0	35	2	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+lista	NOUN	0	35	3	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+das	ADP	0	35	4	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+opções	NOUN	0	35	5	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+de	ADP	0	35	6	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+entrega	NOUN	0	35	7	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+de	ADP	0	35	8	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+comida	NOUN	0	35	9	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+chinesa	ADJ	0	35	10	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+com	ADP	0	35	11	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+mais	DET	0	35	12	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+avaliações	NOUN	0	35	13	olly mostra uma lista das opções de entrega de comida chinesa com mais avaliações
+entrega	VERB	0	36	0	entrega ao domicílio de comida chinesa com mais avaliações
+ao	ADP	0	36	1	entrega ao domicílio de comida chinesa com mais avaliações
+domicílio	NOUN	1	36	2	entrega ao domicílio de comida chinesa com mais avaliações
+de	ADP	0	36	3	entrega ao domicílio de comida chinesa com mais avaliações
+comida	NOUN	0	36	4	entrega ao domicílio de comida chinesa com mais avaliações
+chinesa	ADJ	0	36	5	entrega ao domicílio de comida chinesa com mais avaliações
+com	ADP	0	36	6	entrega ao domicílio de comida chinesa com mais avaliações
+mais	DET	0	36	7	entrega ao domicílio de comida chinesa com mais avaliações
+avaliações	NOUN	0	36	8	entrega ao domicílio de comida chinesa com mais avaliações
+olly	NOUN	1	37	0	olly melhores avaliações de entrega para comida chinesa
+melhores	ADJ	0	37	1	olly melhores avaliações de entrega para comida chinesa
+avaliações	NOUN	0	37	2	olly melhores avaliações de entrega para comida chinesa
+de	ADP	0	37	3	olly melhores avaliações de entrega para comida chinesa
+entrega	NOUN	0	37	4	olly melhores avaliações de entrega para comida chinesa
+para	ADP	0	37	5	olly melhores avaliações de entrega para comida chinesa
+comida	NOUN	0	37	6	olly melhores avaliações de entrega para comida chinesa
+chinesa	ADJ	0	37	7	olly melhores avaliações de entrega para comida chinesa
+apetece-me	VERB	1	38	0	apetece-me caril tens alguma recomendação
+caril	NOUN	1	38	1	apetece-me caril tens alguma recomendação
+tens	VERB	0	38	2	apetece-me caril tens alguma recomendação
+alguma	DET	0	38	3	apetece-me caril tens alguma recomendação
+recomendação	NOUN	1	38	4	apetece-me caril tens alguma recomendação
+quero	VERB	0	39	0	quero algum caril para levar alguma recomendação olly
+algum	DET	0	39	1	quero algum caril para levar alguma recomendação olly
+caril	NOUN	1	39	2	quero algum caril para levar alguma recomendação olly
+para	SCONJ	0	39	3	quero algum caril para levar alguma recomendação olly
+levar	VERB	0	39	4	quero algum caril para levar alguma recomendação olly
+alguma	DET	0	39	5	quero algum caril para levar alguma recomendação olly
+recomendação	NOUN	1	39	6	quero algum caril para levar alguma recomendação olly
+olly	ADJ	1	39	7	quero algum caril para levar alguma recomendação olly
+procura	NOUN	0	40	0	procura por comida tailandesa com takeaway perto do centro do porto
+por	ADP	0	40	1	procura por comida tailandesa com takeaway perto do centro do porto
+comida	NOUN	0	40	2	procura por comida tailandesa com takeaway perto do centro do porto
+tailandesa	ADJ	1	40	3	procura por comida tailandesa com takeaway perto do centro do porto
+com	ADP	0	40	4	procura por comida tailandesa com takeaway perto do centro do porto
+takeaway	NOUN	1	40	5	procura por comida tailandesa com takeaway perto do centro do porto
+perto	ADV	0	40	6	procura por comida tailandesa com takeaway perto do centro do porto
+do	ADP	0	40	7	procura por comida tailandesa com takeaway perto do centro do porto
+centro	NOUN	0	40	8	procura por comida tailandesa com takeaway perto do centro do porto
+do	ADP	0	40	9	procura por comida tailandesa com takeaway perto do centro do porto
+porto	NOUN	0	40	10	procura por comida tailandesa com takeaway perto do centro do porto
+para	ADP	0	41	0	para o alarme das sete da manhã
+o	DET	0	41	1	para o alarme das sete da manhã
+alarme	NOUN	1	41	2	para o alarme das sete da manhã
+das	ADP	0	41	3	para o alarme das sete da manhã
+sete	NUM	0	41	4	para o alarme das sete da manhã
+da	ADP	0	41	5	para o alarme das sete da manhã
+manhã	NOUN	0	41	6	para o alarme das sete da manhã
+por	ADP	0	42	0	por favor lista os alarmes ativos
+favor	NOUN	0	42	1	por favor lista os alarmes ativos
+lista	VERB	0	42	2	por favor lista os alarmes ativos
+os	DET	0	42	3	por favor lista os alarmes ativos
+alarmes	NOUN	1	42	4	por favor lista os alarmes ativos
+ativos	ADJ	0	42	5	por favor lista os alarmes ativos
+o	PRON	0	43	0	o que está a acontecer no futebol hoje
+que	PRON	0	43	1	o que está a acontecer no futebol hoje
+está	VERB	0	43	2	o que está a acontecer no futebol hoje
+a	SCONJ	0	43	3	o que está a acontecer no futebol hoje
+acontecer	VERB	0	43	4	o que está a acontecer no futebol hoje
+no	ADP	0	43	5	o que está a acontecer no futebol hoje
+futebol	NOUN	0	43	6	o que está a acontecer no futebol hoje
+hoje	ADV	0	43	7	o que está a acontecer no futebol hoje
+por	ADP	0	44	0	por favor põe contentores dos xutos e pontapés
+favor	NOUN	0	44	1	por favor põe contentores dos xutos e pontapés
+põe	VERB	1	44	2	por favor põe contentores dos xutos e pontapés
+contentores	NOUN	1	44	3	por favor põe contentores dos xutos e pontapés
+dos	ADP	0	44	4	por favor põe contentores dos xutos e pontapés
+xutos	NOUN	1	44	5	por favor põe contentores dos xutos e pontapés
+e	CCONJ	0	44	6	por favor põe contentores dos xutos e pontapés
+pontapés	NOUN	1	44	7	por favor põe contentores dos xutos e pontapés
+gosto	NOUN	0	45	0	gosto de música rock
+de	ADP	0	45	1	gosto de música rock
+música	NOUN	0	45	2	gosto de música rock
+rock	ADJ	0	45	3	gosto de música rock
+minha	DET	0	46	0	minha banda de música favorita é queen
+banda	NOUN	0	46	1	minha banda de música favorita é queen
+de	ADP	0	46	2	minha banda de música favorita é queen
+música	NOUN	0	46	3	minha banda de música favorita é queen
+favorita	ADJ	0	46	4	minha banda de música favorita é queen
+é	AUX	0	46	5	minha banda de música favorita é queen
+queen	X	1	46	6	minha banda de música favorita é queen
+começa	VERB	0	47	0	começa a tocar música dos meus favoritos
+a	SCONJ	0	47	1	começa a tocar música dos meus favoritos
+tocar	VERB	0	47	2	começa a tocar música dos meus favoritos
+música	NOUN	0	47	3	começa a tocar música dos meus favoritos
+dos	ADP	0	47	4	começa a tocar música dos meus favoritos
+meus	DET	0	47	5	começa a tocar música dos meus favoritos
+favoritos	NOUN	0	47	6	começa a tocar música dos meus favoritos
+por	ADP	0	48	0	por favor toca a minha melhor música
+favor	NOUN	0	48	1	por favor toca a minha melhor música
+toca	VERB	0	48	2	por favor toca a minha melhor música
+a	DET	0	48	3	por favor toca a minha melhor música
+minha	DET	0	48	4	por favor toca a minha melhor música
+melhor	ADJ	0	48	5	por favor toca a minha melhor música
+música	NOUN	0	48	6	por favor toca a minha melhor música
+qual	PRON	0	49	0	qual é o autor desta música
+é	AUX	0	49	1	qual é o autor desta música
+o	DET	0	49	2	qual é o autor desta música
+autor	NOUN	0	49	3	qual é o autor desta música
+desta	ADP	0	49	4	qual é o autor desta música
+música	NOUN	0	49	5	qual é o autor desta música
+de	SCONJ	0	50	0	de que álbum é a música atual
+que	SCONJ	0	50	1	de que álbum é a música atual
+álbum	NOUN	0	50	2	de que álbum é a música atual
+é	AUX	0	50	3	de que álbum é a música atual
+a	DET	0	50	4	de que álbum é a música atual
+música	NOUN	0	50	5	de que álbum é a música atual
+atual	ADJ	0	50	6	de que álbum é a música atual
