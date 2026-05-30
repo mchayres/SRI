@@ -3,8 +3,8 @@
     {
       "tensorName": "Embedding [CLS]",
       "tensorShape": [20, 768],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/records_documento_768_base_CLS.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/documento/meta_documento_768_base_CLS.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/documento/records_documento_768_base_CLS.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/documento/meta_documento_768_base_CLS.tsv"
     },
 	{
       "tensorName": "Embeddings última camada",
