@@ -3,8 +3,8 @@
 	{
       "tensorName": "Pooling última camada",
       "tensorShape": [2078, 768],
-      "tensorPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/token/content/SRI/_/projector/DOALL_records_token_768_base_POOL.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/token/content/SRI/_/projector/DOALL_meta_token_768_base_POOL.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/token/content/SRI/_/token/content/SRI/_/projector/DOALL_records_token_768_base_POOL.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mchayres/sri/main/projecao/token/content/SRI/_/token/content/SRI/_/projector/DOALL_meta_token_768_base_POOL.tsv"
        }
   ],
   "modelCheckpointPath": "<b>Embeddings de tokens"
